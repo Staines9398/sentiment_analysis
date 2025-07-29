@@ -1,1 +1,1 @@
-sentiment analysis of product reviews using naive bytes
+sentiment analysis of product reviews using naive bayes
